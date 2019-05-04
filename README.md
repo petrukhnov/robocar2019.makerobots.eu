@@ -80,7 +80,7 @@ Join us in discord: <https://discord.gg/Ch2j84C>
 - Add something to the prize pool. Digitally deliverable content related to robotics or diy would be best. 
 - Let us know if you willing to help in some other way.
 
-## Last year competition
+## First Live competition (2018)
 
-Roboarm Online Live Robotics Competition 2018 http://roboarm2019.makerobots.eu
+Roboarm Online Live Robotics Competition 2018 <http://roboarm2018.makerobots.eu>
 
