@@ -28,7 +28,10 @@ Current prize pool is 50 euro.
 3. Submit short video and photos of the your creation to the website/email/github.
 4. Compete online during live event (you will have to stream video).
 
+[How to build robot car when you have zero knowledge, skills, tools, money or time.](how-to.md)
+
 [Need help with building robot?](help.md)
+
 
 # Submissions
 
@@ -50,7 +53,7 @@ Sequence will be ~30-70 numbers, and fastest robot who visit sectors in given or
 
 ![text](imgs/area-example.png)
 
-Full rules be announced later.
+Full rules will be announced later.
 
 [Allowed streaming platforms](allowed-streaming-platforms.md)
 
@@ -73,8 +76,9 @@ Join us in discord: <https://discord.gg/Ch2j84C>
 
 
 
-## Want to help?
+## Want to help us?
 
+- <https://wiki.makerobots.eu/doku.php/help-wanted>
 - Gift a robotic set to the child, and help him to build it.
 - Spread the word around. Share that page to people who interested in robotics or want to try. Or just post to your social network.
 - Add something to the prize pool. Digitally deliverable content related to robotics or diy would be best. 
