@@ -8,7 +8,7 @@ If you have none of them, this building robots may be too hard for you now. If y
 ## Step-by-step guide. (work in progress)
 
 
-Building robot could be tricky. Clear plan and support will make learning easier and more fun. 
+Building a robot could be tricky. Clear plan and support will make learning easier and more fun. 
 
 
 ### Step 1.
@@ -31,8 +31,9 @@ By combining parts and writing program that will utilize all of the components y
 
 
 
-### Step 2. 
-Obtain motors, power supply and try them.
+### Step 2.
+ 
+Obtain two motors, power supply and try them.
 
 
 ### Step 3.
