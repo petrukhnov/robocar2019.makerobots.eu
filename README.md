@@ -51,7 +51,7 @@ Example of sequence: 5, 15, 8, 16, 1, 8, 11, 13, 5, 3, 14, 16
 
 Sequence will be ~30-70 numbers, and fastest robot who visit sectors in given order will win. 
 
-![text](imgs/area-example.png)
+![area-example](imgs/area-example.png)
 
 Full rules will be announced later.
 

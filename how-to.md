@@ -35,6 +35,18 @@ By combining parts and writing program that will utilize all of the components y
  
 Obtain two motors, power supply and try them.
 
+Here is example of some motors:
+
+![motors](imgs/guide-steps/motors.png)
+
+
+Here is example of various power supplies: 
+
+![area-example](imgs/guide-steps/powerbanks.png)
+
+It is usually a good idea to use compatible components. E.g. if you building robot with the Lego PF motors, then using Lego PF battery pack and Lego PF wires will make it very easy to assemble.
+Nothing stops you from mixing components, which may require a little more knowledge about voltage and wires. 
+
 
 ### Step 3.
 Get microcontroller with led and run program that will blink led.
