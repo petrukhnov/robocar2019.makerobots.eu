@@ -39,11 +39,9 @@ Current prize pool is 50 euro.
 
 # Rules 
 
-Robot should be 40x40x40 cm max. It should have 4 leds of same color at the top arranged in line or square.
+Robot should be 40x40x40 cm max. It should have led/lamp at the top clearly visible.
 
 Robot could be remote controlled wireless/wired or be autonomous. 
-
-Leds should indicate on which row it is currently. 
 
 There will be sequence of sectors published at the beginning of live event. 
 
@@ -53,19 +51,20 @@ Sequence will be ~30-70 numbers, and fastest robot who visit sectors in given or
 
 ![area-example](imgs/area-example.png)
 
-Full rules will be announced later.
+[Full rules](rules-details.md)
 
 [Allowed streaming platforms](allowed-streaming-platforms.md)
 
 
 ## Deadlines and Important Dates
 
+Competition started. 
 
-Full rules will be published in May 2019.
+All submissions that are done before 2019-06-25 18:00 UTC will participate in the digital books giveaway (details are in [Full rules](rules-details.md)).
 
-We will start to accept submission in June 2019.
+2019-09-14 is the last day when submissions are accepted.
 
-Live event in September/October 2019. Exact date will be known in the middle of August.
+Live event in September/October 2019. Exact date for live event will be known in the middle of August.
 
 
 # Contacts
