@@ -15,6 +15,8 @@ Feel free to use lego, vex, fischertechnik, wooden planks, cardboard, tape, your
 The final round of competition will be held online on September/October 2019. Participants will stream online video of their creations.
 
 
+![path](imgs/path/combined.png)
+
 
 
 # Awards And Prizes
@@ -58,6 +60,8 @@ Sequence will be ~30-70 numbers, and fastest robot who visit sectors in given or
 
 ## Deadlines and Important Dates
 
+![timeline](imgs/timeline.png)
+
 Competition started. 
 
 All submissions that are done before 2019-06-25 18:00 UTC will participate in the digital books giveaway (details are in [Full rules](rules-details.md)).
@@ -87,3 +91,7 @@ Join us in discord: <https://discord.gg/Ch2j84C>
 
 Roboarm Online Live Robotics Competition 2018 <http://roboarm2018.makerobots.eu>
 
+
+# Credits
+
+Some images are taken from papunet.net

@@ -30,7 +30,9 @@ The minimum accepted submission should have enough content to show what kind of 
 * List of participants in team.
 
 
-## Live event schedule (draft, times are relative)
+## Live event schedule (draft) 
+
+Times below are relative to the start of event. Event time will be selected based on participants timezones.
 
 * 00:00 Start livestream, and share link to organizers
 * 00:30 All streams will become public and even 
@@ -55,12 +57,9 @@ To get 1 point for visiting sector, the robot should be at least 70% inside it. 
 
 Number sequence will be generated semi randomly, ensuring, that there is always 1 sector between them.
 
-E.g. sectors
+E.g. sectors:
 
-* 1  2  3  4
-* 5  6  7  8
-* 9  10 11 12
-* 13 14 15 16
+![area-example-sectors](imgs/area-example-sectors.png)
 
 If the current number is 6, then the next could be only: 4,8,12,13,14,15,16
 
@@ -68,3 +67,4 @@ If the current number is 14, then the next could be any, except closest to 14.
 
 
 Robots should have led/lamp on top, so they are visible. When the robot is in the correct sector, it should turn led on for 1 seconds, and then turn it off.
+
