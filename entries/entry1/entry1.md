@@ -5,6 +5,7 @@
 ## Description
 
 Robot's name is: Fastlong.
+
 I have 3v and 6v battery. 4 leds that could be enabled independently. 
 
 ## Video
