@@ -37,6 +37,7 @@ Current prize pool is 50 euro.
 
 # Submissions
 
+<a href="/entries/entry1/entry1"><img src="/entries/entry1/IMG_20190621_211958.jpg" width="250" height="175" /></a>
 
 
 # Rules 
