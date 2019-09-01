@@ -12,8 +12,8 @@ In this contest you will create simple robotic car, that could go between differ
 
 Feel free to use lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and whatever else you have laying around. You could program servo motors with Arduino, or just turn simpler DC motors on and off.
 
-The final round of competition will be held online on September/October 2019. Participants will stream online video of their creations.
-
+The final round of competition will be held online on 2019-09-21. Participants will stream online video of their creations.
+Time will be agreed with qualified participants.
 
 ![path](imgs/path/combined.png)
 
@@ -69,7 +69,7 @@ All submissions that are done before 2019-06-25 18:00 UTC will participate in th
 
 2019-09-14 is the last day when submissions are accepted.
 
-Live event in September/October 2019. Exact date for live event will be known in the middle of August.
+Live event date: 2019-09-21.
 
 
 # Contacts
