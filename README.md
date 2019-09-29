@@ -2,6 +2,14 @@
 ![makerobots.eu](/imgs/logo.png)
 
 
+
+# Contest results
+
+This year (2019) there was only one submission and no winner.
+
+
+
+
 # 2019 Robotics Car Contest
 
 <http://robocar2019.makerobots.eu>
